@@ -1,0 +1,12 @@
+torch
+torchvision
+ultralytics
+opencv-python
+matplotlib
+numpy
+scikit-image
+huggingface_hub
+Pillow
+gdown
+seaborn
+scipy 
